@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.AI;
 namespace Unity.FPS.Game
 {
-
     public class EnemyAI : MonoBehaviour
     {
 
