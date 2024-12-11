@@ -66,7 +66,7 @@ namespace Unity.FPS.Gameplay
         public float CrouchingSharpness = 10f;
 
         [Header("Audio")] [Tooltip("Amount of footstep sounds played when moving one meter")]
-        public float FootstepSfxFrequency = 1f;
+        public float FootstepSfxFrequency = 5f;
 
         [Tooltip("Amount of footstep sounds played when moving one meter while sprinting")]
         public float FootstepSfxFrequencyWhileSprinting = 1f;
