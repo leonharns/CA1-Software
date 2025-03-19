@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/FPS/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
   - enabled: 1
-    path: "Assets/Samples/Meta XR Interaction \u200BSDK/72.0.0/Example Scenes/HandGrabExamples.unity"
-    guid: 39ae0e546b9edc0408d3b11c6a7c2814
-  - enabled: 1
     path: Assets/FPS/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/Scenes/GunEnv.unity
+    guid: d61d8e215096ed9439b871f82b63a1dc
   - enabled: 1
     path: Assets/Scenes/AlphaEnv.unity
     guid: 2bae76a630728fb41a5da02dff73c7d9
