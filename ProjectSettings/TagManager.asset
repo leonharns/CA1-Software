@@ -6,6 +6,18 @@ TagManager:
   tags:
   - Fuel
   - Lantern
+  - Enemy
+  - Bullet
+  - QDSUIToggleButton
+  - QDSUIToggleSwitch
+  - QDSUISharedThemeColor
+  - QDSUIAccentColor
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIBorderlessButton
+  - QDSUISecondaryButton
+  - QDSUITooltip
+  - QDSUIToggleBorderlessButton
   layers:
   - Default
   - TransparentFX
@@ -19,7 +31,7 @@ TagManager:
   - 
   - FirstPersonWeapon
   - PhysicalAmmo
-  - 
+  - Bullet
   - 
   - 
   - 
